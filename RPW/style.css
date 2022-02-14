@@ -460,7 +460,7 @@ background: url("images/banner.jpg") no-repeat center;
 }
 
 .contact{
-      background: -webkit-linear-gradient(top,white,white,gold);
+      background: -webkit-linear-gradient(top,white,white,lightgrey);
 
 }
 .contact .title::after{
