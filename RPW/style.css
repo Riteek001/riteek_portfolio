@@ -459,7 +459,10 @@ background: url("images/banner.jpg") no-repeat center;
     background: #D8B031!important;
 }
 
+.contact{
+      background: -webkit-linear-gradient(top,white,white,gold);
 
+}
 .contact .title::after{
     content: "get in touch";
 }
@@ -559,10 +562,11 @@ background: url("images/banner.jpg") no-repeat center;
 }
 
 
-.contact{
-      background: -webkit-linear-gradient(top,white,white,yellow,white);
 
+.contact{
+      background: -webkit-linear-gradient(top,white,white,gold,white);
 }
+
 @media (max-width: 1104px) {
     .about .about-content .left img{
         height: 400px;
